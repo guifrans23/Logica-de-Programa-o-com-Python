@@ -1,0 +1,83 @@
+            Anotações do estudo De Python
+=====================================================================
+>pagina 1 das anotações do estudo de python
+        ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
+> - link do download do python:
+https://www.python.org/
+
+para trabalhar com o python a duas formas:
+  -instalado no seu computador;
+  - ou vc usa via internet;
+    ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
+  --+como instalar o python+--
+    - 1.primeiro passo é acessar o site do python
+    - 2.Segundo passo é  localizar o botão Download no site
+    - 3. Terceiro passo ao localizar o botão Download no site click no botão
+    - 4.Quarto passo é clicar no botão Download-python(versão)
+obs: o botão vai baixar um arquivo executável("arquivo.exe") 
+        ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
+Onde nós criamos nossos Projetos??
+
+nós necessitamos de um ouro programa chamado de 
+(Ambiente integrado de desenvolvimento).
+o python vem nativamente com um programa para a gente escrever
+os comandos. 
+o programa se chama( IDLE ) 
+obs:o python já vem comm uma calculadora nativa 
+    ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
+    existe outro programas para a digitação de código em python como
+    o PyCharm 
+    o PyCharm é oum programa mais completo para a digitação de 
+    códigos em python 
+
+        o python voce consegue fazer pequenos algorítimos, pequenos programas,ou
+     programas mais complexos, e neste caso  da para utilizar o ""PYCHARM".
+        o pycharm também pode pode ser utilizado para a criação de programas com maior
+     complexabilidade na sua logica como por exemplo o inkscape que seria um Software 
+     para desenho vetoriais.
+        Esse software por exemplo ele foi escrito em python, esse tipo de software que é 
+    cheio de menus, as janela e os botões com suas funções foram escritas em python,e 
+    e provavelmente cada coisa utiliza um ou mais arquivos em python para formar uma 
+    aplicação.
+        Isso é uma coisa bem mais avançada é python,com ele veja que é possível fazer 
+    um calculo bem simples,uma calculadora é possível fazer com python.
+        também é possível fazer programas mais complexos como o falado acima,Porem o 
+    que muda é o ambiente de desenvolvimento.
+        Como foi mostrado o pycharm ele é um ambiente de desenvolvimento para voce 
+    colocar o python só que ele é uma ferramenta mais completa e mais complexa.
+        Aqui a  gente diz que tá fazendo uma programação orientada ao objeto que é uma 
+    coisa bem mais avançada no estudo do python, e este curso é bem introdutório,bem 
+    básico mais também se trata mais de logica de programação em python.
+        Então esse programa ele não vai nos servir nesse momento pois ele é muito 
+    complexo e tem muita coisa para gente do que a gente vai fazer.
+        como tinha dito antes ele é utilizados para fazer programas mais complexos como 
+    foi dito aqui quando voce instala o offline como falei voce tem esse "IDOL" que ja é 
+    suficiente para fazer o que agente quer.
+        Outro também tem a instalação tem até site e o próprio pacote  que é o um programa 
+    chamado "ANACONDA".
+        O anaconda quando é instalado no seu computado ele vai criar para voce  um ambiente,
+    Que seria o "ANACONDA-NAVEGATION" que integra vários programas inclusive até o pycharm.
+        Ele integra todos esses programas para a gente poder trabalhar com python e um deles
+    que é bem mais conhecido é chamado "JUPITER NOTEBOOK".
+        Quando voce clica no botão do menu do anaconda-navigator na opção do júpiter notebook
+    na opção do laucher ele vai abrir para voce a pagina do júpiter que ele no seu navegador 
+    e ele não necessariamente esta conectado a internet,vai trabalhar no (localhost 
+    "https://localhost:8888/tree") Então ele tem todas as pastas do seu computador.
+        E o  ambiente a gente trabalha nesse júpiter notebook é um ambiente bom pois é utilizado
+    pelo anaconda.
+        O ambiente do google é semelhante e eu acho que até  que foi inspirado no júpiter notebook
+    só que a diferença é que aqui eu não preciso estar conectado a internet para trabalhar porque o
+    anaconda esta instalado no computador né então aqui a gente tem as linhas onde a gente  digita 
+    os comandos específicos do python então coloca para executar e ele executa.
+        provavelmente o júpiter notebook executa aqui numa boa provavelmente o júpiter notebook não 
+    vai ser suficiente para fazer esse tipo de programa, porque a gente precisa de um programa mais 
+    robusto.
+        No caso do pycharm mas o júpiter aqui é suficiente para fazer todo  de logica de programação.
+        Bom essas são maneiras offline,voce instala no seu computado todas essas ferramenta aqui ou uma
+    delas para usar o python.
+        mas como foi dito não é necessário para voce acompanhar o curso,voce instalar tudo isso daqui.
+    o ideal é a gente começar ja aqui é com o "GOOGLE COLAB"
+
+    link do google colab: https://www.google.com/search?q=google+colab&oq=google+c&aqs=chrome.4.69i57j0i512j0i433i512l3j0i131i433i512j69i60l2.11241j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on
+    
+    
