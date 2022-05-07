@@ -1,6 +1,6 @@
             Anotações do estudo De Python
 =====================================================================
->pagina 1 das anotações do estudo de python
+>pagina 0 das anotações do estudo de python
         ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
 > - link do download do python:
 https://www.python.org/

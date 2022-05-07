@@ -1,0 +1,120 @@
+ Anotações do estudo De Python
+=====================================================================
+>pagina 1 das anotações do estudo de python
+        ~~+~~+~~+~~+~~+~~+~~+~~+~~+~~
+    vamos continuar ao nosso curso de logica de programação com python.
+    Então na aula anterior a gente viu como instalar o python para o seu 
+computador e também como usá-lo de maneira offline e eu havia dito ou seja
+de novo e nesse nós vamos usar o google colab.
+    nós não vamos instalar o python no computador, a gente vai fazer tudo na 
+"nuvem" para isso voce tem que ter um email é do google (o gmail) e já  vem 
+para voce podemos dizer assim google colab que já faz parte parte dos pacotes
+oferecidos pelo Google.
+    quando voce entra no site do google colab voce vai de cara com uma tela
+Aqui
+
+|--------------------------------------------------------|
+| Exemplo | RECENTES | Google Drive | github |  upload   |
+|--------------------------------------------------------|
+|fila notebook🔽                                         |
+|                                                        |
+|       Titulo        Primero acesso  aberto pela       🗑|
+|_____________________________________ultima vez_________|
+|               nenhum arquivo                           |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                novo notebook   cancelar|
+|--------------------------------------------------------| 
+ 
+    Aqui em "Recentes" geralmente vai aparecer  como tela inicial
+e vai aparecer o seu arquivos recentes  caso voce não tenha arquivo 
+vai aparecer "nenhum arquivos".
+|--------------------------------------------------------|
+| Exemplo | Recentes | Google Drive | github |  UPLOAD   |
+|--------------------------------------------------------|
+|                                                        |
+|  |--------------------------------------------------|  |
+|  |                                                  |  |
+|  |                                                  |  |
+|  |    |-----------------|                           |  |
+|  |    |escolher arquivos|Nenhum arq...selecionado   |  |
+|  |    |-----------------|                           |  |
+|  |                                                  |  |
+|  |                                                  |  |
+|  |                                                  |  |
+|  |--------------------------------------------------|  |
+|                                                        |
+|                                novo notebook   cancelar|
+|--------------------------------------------------------| 
+    e agente pode também na opção de upload voce trazer um arquivo do 
+seu computador para cá.
+|--------------------------------------------------------|
+| Exemplo | Recentes | Google Drive | GITHUB |  upload   |
+|--------------------------------------------------------|
+|  Insira um URL do Github ou Pesquise   🅾Incluir      |
+|                                           repositórios |
+|  Por organização ou usuário               particular   |
+|_____________________________________________________🔍|
+|                                                        |
+|                                                        |
+|  Pasta                                                 |
+|________________________________________________________|
+|                  nenhum resultado                      |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                novo notebook   cancelar|
+|--------------------------------------------------------| 
+    
+    A gente tem a opção de trazer do github.
+
+|-------------------------------------------------------|
+| Exemplo | Recentes | GOOGLE DRIVE | github | upload   |
+|-------------------------------------------------------|
+|_filtrar_notebooks 🔽_________________________________|          
+|      Titulo      Prioridade   Ultimas      Aberta pela|
+|______________________________Modificações__ultima vez_|
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                        
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                      
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                        
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                        
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                       
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |                                                        
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |
+|♻-arquivo       | Guifrans   | 23/02/2022 | 30/01/08   |
+|                                                        |
+|                                novo notebook   cancelar|
+|--------------------------------------------------------| 
+
+    Do seu próprio google drive.
+que aparecerão os seus arquivos do seu drive  da sua conta 
+google que ficam arquivos.
+
+|-------------------------------------------------------|
+| EXEMPLOS | Recentes | google drive | github | upload  |
+|-------------------------------------------------------|
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                novo notebook   cancelar|
+|--------------------------------------------------------| 
+
+    PArei na parte 1:18
