@@ -32,7 +32,7 @@ Aqui
 e vai aparecer o seu arquivos recentes  caso voce não tenha arquivo 
 vai aparecer "nenhum arquivos".
 |--------------------------------------------------------|
-| Exemplo | Recentes | Google Drive | github |  UPLOAD   |
+| Exemplo | Recentes | Google Drive | github |_UPLOAD_   |
 |--------------------------------------------------------|
 |                                                        |
 |  |--------------------------------------------------|  |
@@ -48,10 +48,10 @@ vai aparecer "nenhum arquivos".
 |                                                        |
 |                                novo notebook   cancelar|
 |--------------------------------------------------------| 
-    e agente pode também na opção de upload voce trazer um arquivo do 
-seu computador para cá.
+ e agente pode também na opção de upload voce trazer um ar-
+quivo do seu computador para cá.
 |--------------------------------------------------------|
-| Exemplo | Recentes | Google Drive | GITHUB |  upload   |
+| Exemplo | Recentes | Google Drive |_GITHUB_|  upload   |
 |--------------------------------------------------------|
 |  Insira um URL do Github ou Pesquise   🅾Incluir      |
 |                                           repositórios |
@@ -71,7 +71,7 @@ seu computador para cá.
     A gente tem a opção de trazer do github.
 
 |-------------------------------------------------------|
-| Exemplo | Recentes | GOOGLE DRIVE | github | upload   |
+| Exemplo | Recentes |_GOOGLE_DRIVE_| github | upload   |
 |-------------------------------------------------------|
 |_filtrar_notebooks 🔽_________________________________|          
 |      Titulo      Prioridade   Ultimas      Aberta pela|
@@ -95,26 +95,32 @@ que aparecerão os seus arquivos do seu drive  da sua conta
 google que ficam arquivos.
 
 |-------------------------------------------------------|
-| EXEMPLOS | Recentes | google drive | github | upload  |
+|_EXEMPLOS_| Recentes | google drive | github | upload  |
 |-------------------------------------------------------|
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                                        |
-|                                novo notebook   cancelar|
-|--------------------------------------------------------| 
+|_filtrar_notebooks_______________🔽_                   |
+|____title______________________________________________|
+|🥨-1_exemplo________________________________________🔱|
+|🥨-2_exemplo________________________________________🔱|
+|🥨-3_exemplo________________________________________🔱|
+|🥨-4_exemplo________________________________________🔱|
+|🥨-5_exemplo________________________________________🔱|
+|                               novo notebook   cancelar|
+|-------------------------------------------------------| 
 
-    PArei na parte 1:18
+recentes🔽
+
+|-------------------------------------------------------|
+| exemplo |_RECENTES_ | google drive | github | upload  |
+|-------------------------------------------------------|
+|  _filtrar_notebooks_______________🔽_                |
+|  Titulo                primeiro acesso aberto pela    |
+|________________________________________ultima vez_____|
+|                                                       |
+|          Nenhum resultado                             |
+|                                                       |
+|                                                       |
+|                                                       |
+|                                                       |
+|                               novo notebook   cancelar|
+|-------------------------------------------------------| 
+
