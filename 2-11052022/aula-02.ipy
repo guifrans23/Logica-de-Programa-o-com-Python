@@ -1,0 +1,70 @@
+#       Em geral em programação, independente da linguagem de programação
+#em que a gente escreve o código a gente precisa dizer,ou dar uma dica 
+#do que esta sendo escrito naquela linha, ou naquele bloco de instruções!!!
+#       para isso agente insere é alguma frase, ou alguma palavra no espaço 
+# que a gente vai chamar de "COMENTARIO". O commentario também pode ser colo-
+#cado dentro da "ASPAS TRIPLA"  EX: 
+'''APENAS 
+UM 
+EXEMPLO 
+DE 
+COMMENTARIO
+ASPAS
+TRIPLA'''
+ 
+#  Funções build-in  
+
+'''
+a função BUILD-IN uma função interna, e é apena um exemplo de função utilizada no python,
+que ja fazem parte do python por exemplo o print
+
+função é assim, ela tem um nome  e vai ter essa os perenteses print()<= nos parenteses
+pode ter ou nao conteudo.
+
+mas o que seria o print que nos tanto falamos ??
+ O print ele vai imprimir => mostrar na tela alguma informação.
+
+ no print nós podemos colocar dentro dele  por exemplo dentro de parenteses () as aspas "" 
+ então ficaria assim print("frase do curso")
+
+'''
+print("frase do curso")
+
+# para executar um código eu utilizo o SHIFT ENTER
+'''funções do tipo Build-in significa que são funções que não pode se repetir pois não pode 
+ter outras funções com esse nome.
+e se caso isso aconteça isso vai atrapalhar na programação!!
+'''
+
+'''Outro exemplo de função build-in do python é função interna chamada de input
+O input -> coleta dados do usuário(ele coleta informações mandadas)
+'''
+input()
+
+# Palavras Reservadas
+''' que seriam 23 palavras.
+palavras reservadas são palavras que voce não pode usar no código como variavel, pois elas ja 
+fazem parte da estrutura do python.
+    um exemplo é a palavra Print que é a palavra da função que ela não pode ser usada.
+algumas como o 
+    
+    if 
+
+if
+veja Aqui no nosso editor ele até mudou a cor quando eu escrevi if.
+veja quando eu escrevi. 
+
+    se 
+    
+em portugues se ele não muda a cor porque o se não é uma palavra reservada.
+
+se 
+
+geral a gente vai identificar assim! 
+
+então se eu tiver outra palavra como o
+or
+or 
+o or é uma palavra reservada que ficou em azul.
+Mas é uma palavra reservada
+ A palavra true fica azul também. '''
