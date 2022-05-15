@@ -41,33 +41,46 @@ O input -> coleta dados do usuário(ele coleta informações mandadas)
 '''
 input()
 
-# Palavras Reservadas
-''' que seriam 23 palavras.
+# ~~Palavras Reservadas~~
+# ==================================inicio do print====================================================
+ 
+ '''as palavras reservadas que seriam 23 palavras.
 palavras reservadas são palavras que voce não pode usar no código como variavel, pois elas ja 
-fazem parte da estrutura do python.
-    um exemplo é a palavra Print que é a palavra da função que ela não pode ser usada.
-algumas como o 
+fazem parte da estrutura do python.'''
+    '''um exemplo é a palavra "Print" que é a palavra da função que ela não pode ser usada.
+algumas como o  if
     
-    if 
+    print
+'''
 
+print 'few'
+# ===================================fim do print========================================================
+# ===================================inicio do if=========================================================
+
+'''veja Aqui no nosso editor ele até mudou a cor quando eu escrevi if.
+veja quando eu escrevi. '''
 if
-veja Aqui no nosso editor ele até mudou a cor quando eu escrevi if.
-veja quando eu escrevi. 
-
-    se 
+'''O texto da palavara ficou arroxado. 
+Que demonstra que isso é uma vairiavel nativa do python'''
     
-em portugues se ele não muda a cor porque o se não é uma palavra reservada.
+
+ ''' Mas em portugues o termo "se" ele não muda a cor porque o "se" não é uma palavra reservada.'''
 
 se 
 
-geral a gente vai identificar assim! 
+'''geral a gente vai identificar assim! '''
 
-então se eu tiver outra palavra como o
+# =====================================fim do if=========================================================== 
+# =====================================inicio do or=========================================================
+
+'''então se eu tiver outra palavra como o "or" '''
 or
-o or é uma palavra reservada que ficou em azul.
+
+'''o "or" é uma palavra reservada que ficou em azul.
 Mas é uma palavra reservada. 
 a palavra true 
- A palavra true fica azul também.
- é uma palavra reservada pro python para outro contexto
- ela foi feita para ser usada no contexto que ela foi feita.
- '''
+A palavra true fica azul também.
+é uma palavra reservada pro python para outro contexto
+ela foi feita para ser usada no contexto que ela foi feita.''''
+
+#======================================== fim do or========================================================

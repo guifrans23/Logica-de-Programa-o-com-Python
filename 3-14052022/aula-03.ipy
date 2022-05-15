@@ -1,0 +1,48 @@
+### Aula-03 variável
+
+# Em matematica conhecemos as váriaveis como na equação x+2=3. Dai determinamos o valor da variavel x.
+# Em programação isso é diferente .Variável é utilizado para amezenamento valores e dar um nome para uma
+# area de memória do computador onde se armazena dados.
+
+# nome para as variaveis .Regras gerais :Começa sempre com letra !!
+
+p1 = 10
+P1 = 7 
+#  O Python  é case sensitive
+# essa forma utilizada a baixo{
+# p1 = 10
+# P1 = 7
+# prova
+# prova_1 
+# }; é uma má pratica da programação 
+
+p1 = 20
+p1 = 11
+prova = 6
+prova_1 = 7
+
+# Mas mesmo assim o modo de escrever a variavel esta correto. 
+# Pois a criação de variavel no python deve ser criada usando "LETRAS"
+#  modo incorreto de criação de variavel =>{
+# 
+# 1p
+# prova 1
+# prova um 
+# 
+# };
+1p = 8
+prova 1 =0
+prova um = 6
+# a escrita com espaço não é uma indentação correta de variave.
+#  o anderscorp pode ser utilizado como variavel. pois ele pelo editor é dado como letra 
+# exemplo{
+# _prova
+# };
+_prova = 1
+
+# igual "="
+
+x = 3 (atribuição)
+x == 3 (comparação) 
+
+# Isso significa que a var(vergável) X tem o valor de 3(tres) 
