@@ -64,7 +64,10 @@ geral a gente vai identificar assim!
 
 então se eu tiver outra palavra como o
 or
-or 
 o or é uma palavra reservada que ficou em azul.
-Mas é uma palavra reservada
- A palavra true fica azul também. '''
+Mas é uma palavra reservada. 
+a palavra true 
+ A palavra true fica azul também.
+ é uma palavra reservada pro python para outro contexto
+ ela foi feita para ser usada no contexto que ela foi feita.
+ '''
